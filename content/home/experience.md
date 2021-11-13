@@ -22,42 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Lecturer
-    company: Erzincan Binali Yildirim University
+  - title: CEO
+    company: GenCoin
     company_url: ''
-    company_logo: org-ebyu
-    location: Erzincan
-    date_start: '2013-11-18'
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Teaching
-        * Researching
-        
-        
-  - title: Manager
-    company: Live English Language School
-    company_url: ''
-    company_logo: org-le
-    location: Erzincan
-    date_start: '2007-07-01'
-    date_end: '2013-11-15'
-    description: |2-
-        Responsibilities include:
-        
-        * Managing
-        * Hiring
-        * Mentoring
+        * Analysing
+        * Modelling
+        * Deploying
         
   - title: Professor of Semiconductor Physics
-    company: Bolu Final Dergisi Dershanesi
+    company: University X
     company_url: ''
-    company_logo: org-fd
-    location: Bolu
-    date_start: '2005-07-01'
-    date_end: '2007-06-30'
-    description: Taught english to high school students studying for the national university entrance exam.
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
