@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: odogan@erzincan.edu.tr
+phone: 505 566 28 33
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
+  street: Yalnizbag Kampusu
+  city: Erzincan
+  region: 
   postcode: '94305'
-  country: United States
-  country_code: US
+  country: Turkey
+  country_code: TR
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '39.8073'
+  longitude: '39.3803'
 directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
@@ -41,11 +41,11 @@ contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/ozgurdogan'
   - icon: skype
     icon_pack: fab
     name: Skype Me
-    link: 'skype:echo123?call'
+    link: 'skype:?call'
   - icon: keybase
     icon_pack: fab
     name: Chat on Keybase
