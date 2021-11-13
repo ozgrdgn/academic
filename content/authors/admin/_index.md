@@ -6,27 +6,27 @@ title: Özgür Doğan
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Lecturer of English Language
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Erzincan Binali Yildirim University
+  url: https://www.ebyu.edu.tr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include mobile assisted language learning, augmented reality, and gamification.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Mobile Assisted Language Learning
+- Augmented Reality
+- Gamification
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in English Language Teaching
+    institution: Middle East Technical University
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
