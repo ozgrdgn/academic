@@ -36,6 +36,20 @@ experience:
         * Modelling
         * Deploying
         
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-02-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
