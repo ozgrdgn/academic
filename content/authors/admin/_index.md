@@ -72,6 +72,4 @@ highlight_name: true
 
 Özgür Doğan is a lecturer of English language at Erzincan Binali Yildirim University. His research interests include mobile assisted language learning, augmented reality, and gamification. Currently, he is teaching ESP (English for Specific Purposes) and EAP (English for Academic Purposes) courses.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_res" "newtab" >}}resumé{{< /staticref >}}.
