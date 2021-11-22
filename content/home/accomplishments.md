@@ -47,6 +47,14 @@ item:
   organization_url: https://www.datacamp.com
   title: 'Object-Oriented Programming in R'
   url: ""
+- certificate_url: ""
+  date_end: "2018-11-20"
+  date_start: "2018-10-25"
+  description: American English (AE) E-Teacher Program
+  organization: Iowa State University
+  organization_url: https://www.iastate.edu
+  title: Using Educational Technology
+  url: "https://www.coursera.org/learn/data-scientists-tools"
 
 design:
   columns: '2' 
