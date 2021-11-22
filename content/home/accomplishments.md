@@ -31,12 +31,12 @@ item:
   organization_url: https://www.coursera.org
   title: The Data Scientist’s Toolbox
   url: "https://www.coursera.org/learn/data-scientists-tools"
-- certificate_url: https://www.edx.org
+- certificate_url: https://www.linkedin.com/
   date_end: ""
   date_start: "2021-11-22"
   description: ""
   organization: LinkedIn
-  organization_url: https://www.linkedin.com/learning/
+  organization_url: https://www.linkedin.com/learning
   title: Learning R
   url: https://www.linkedin.com/learning/learning-r-2
 - certificate_url: https://www.datacamp.com
