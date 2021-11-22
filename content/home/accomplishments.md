@@ -32,7 +32,7 @@ item:
   title: The Data Scientist’s Toolbox
   url: "https://www.coursera.org/learn/data-scientists-tools"
 - certificate_url: /uploads/CertificateOfCompletion_Learning_R.pdf
-  date_end: ""
+  date_end: "2021-11-22"
   date_start: "2021-11-21"
   description: ""
   organization: LinkedIn
