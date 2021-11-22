@@ -31,7 +31,7 @@ item:
   organization_url: https://www.coursera.org
   title: The Data Scientist’s Toolbox
   url: "https://www.coursera.org/learn/data-scientists-tools"
-- certificate_url: https://www.linkedin.com/
+- certificate_url: /uploads/CertificateOfCompletion_Learning_R.pdf
   date_end: ""
   date_start: "2021-11-21"
   description: ""
