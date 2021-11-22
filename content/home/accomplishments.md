@@ -36,7 +36,7 @@ item:
   date_start: "2021-11-22"
   description: ""
   organization: LinkedIn
-  organization_url: https://www.linkedin.com/
+  organization_url: https://www.linkedin.com/learning
   title: Learning R
   url: https://www.linkedin.com/learning/learning-r-2
 - certificate_url: https://www.datacamp.com
