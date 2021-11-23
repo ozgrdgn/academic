@@ -33,7 +33,7 @@ item:
   url: "https://www.coursera.org/learn/data-scientists-tools"
 - certificate_url: /uploads/AppleTeacher_Certificate.pdf
   date_end: "2020-06-16"
-  date_start: ""
+  date_start: "2020-06-01"
   description: ""
   organization: Coursera
   organization_url: https://appleteacher.apple.com/
