@@ -31,6 +31,14 @@ item:
   organization_url: https://www.coursera.org
   title: The Data Scientist’s Toolbox
   url: "https://www.coursera.org/learn/data-scientists-tools"
+- certificate_url: /uploads/AppleTeacher_Certificate.pdf
+  date_end: "2020-06-16"
+  date_start: ""
+  description: ""
+  organization: Coursera
+  organization_url: https://appleteacher.apple.com/
+  title: Apple Teacher Swift Playgrounds & Apple Teacher
+  url: "https://appleteacher.apple.com/"
 - certificate_url: /uploads/CertificateOfCompletion_Learning_R.pdf
   date_end: "2021-11-22"
   date_start: "2021-11-21"
