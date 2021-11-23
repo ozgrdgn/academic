@@ -35,7 +35,7 @@ item:
   date_end: "2020-06-16"
   date_start: "2020-06-01"
   description: ""
-  organization: Coursera
+  organization: Apple
   organization_url: https://appleteacher.apple.com/
   title: Apple Teacher Swift Playgrounds & Apple Teacher
   url: "https://appleteacher.apple.com/"
