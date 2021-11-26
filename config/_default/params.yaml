@@ -32,7 +32,7 @@ address:
 coordinates:
   latitude: '39.8073'
   longitude: '39.3803'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+directions: Enter Building C4 and take the stairs to Office 204 on Floor 2
 office_hours:
   - 'Monday 10:00 to 13:00'
   - 'Wednesday 09:00 to 10:00'
@@ -46,14 +46,14 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: keybase
+  #  icon_pack: fab
+  #  name: Chat on Keybase
+  #  link: 'https://keybase.io/'
+  # - icon: comments
+  #  icon_pack: fas
+  #  name: Discuss on Forum
+  #  link: 'https://discourse.gohugo.io'
 
 # Site header
 
