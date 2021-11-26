@@ -49,12 +49,12 @@ social:
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.co.uk/citations?user=
-- icon: github
-  icon_pack: fab
-  link: https://github.com/
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/elozgurdogan/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Özgür Doğan is a lecturer of English language at Erzincan Binali Yildirim University. His research interests include mobile assisted language learning, augmented reality, and gamification. Currently, he is teaching ESP (English for Specific Purposes) and EAP (English for Academic Purposes) courses.
+I am a lecturer and a life-long researcher in ELT. Soon after the college graduation from the ELT department of Bogazici University in 2005, I literally dived into the education business by starting my own company called “Live English” and ran it for 7 years. There, I gained invaluable experiences in teaching both as a teacher and a manager. I am currently working as a Lecturer at Erzincan Binali Yildirim University, teaching ESP (English for Specific Purposes) and EAP (English for Academic Purposes) courses. I am also a PhD candidate at Middle East Technical University.
+
+My research interests include Educational Technology, Mobile Learning, Mobile Assisted Language Learning, Social Media and Language Learning, E-learning, Augmented Reality, and Gamification.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_res" "newtab" >}}resumé{{< /staticref >}}.
