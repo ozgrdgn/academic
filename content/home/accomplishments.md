@@ -39,6 +39,14 @@ item:
   organization_url: https://appleteacher.apple.com/
   title: Apple Teacher Swift Playgrounds & Apple Teacher
   url: "https://appleteacher.apple.com/"
+- certificate_url: /uploads/intercultural.pdf
+  date_end: "2019-11-08"
+  date_start: "2019-10-21"
+  description: ""
+  organization: Futurelearn
+  organization_url: https://www.futurelearn.com/
+  title: Introduction to Intercultural Studies: Language and Culture
+  url: https://www.futurelearn.com/courses/intercultural-studies-language-culture
 - certificate_url: /uploads/CertificateOfCompletion_Learning_R.pdf
   date_end: "2021-11-21"
   date_start: "2021-10-21"
