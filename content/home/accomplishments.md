@@ -44,8 +44,8 @@ item:
   date_start: "2019-10-25"
   description: Explore intercultural communication by understanding the relationship between language and cultural identity.
   organization: Futurelearn
-  organization_url: https://www.futurelearn.com/
-  title: Introduction to Intercultural Studies: Language and Culture
+  organization_url: https://www.futurelearn.com
+  title: Language and Culture
   url: https://www.futurelearn.com/courses/intercultural-studies-language-culture
 - certificate_url: /uploads/CertificateOfCompletion_Learning_R.pdf
   date_end: "2021-11-21"
