@@ -41,8 +41,8 @@ item:
   url: "https://appleteacher.apple.com/"
 - certificate_url: /uploads/intercultural.pdf
   date_end: "2019-11-08"
-  date_start: "2019-10-21"
-  description: ""
+  date_start: "2019-10-25"
+  description: Explore intercultural communication by understanding the relationship between language and cultural identity.
   organization: Futurelearn
   organization_url: https://www.futurelearn.com/
   title: Introduction to Intercultural Studies: Language and Culture
