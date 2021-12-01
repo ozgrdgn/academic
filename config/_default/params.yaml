@@ -93,8 +93,8 @@ show_related:
   page: false
   post: true
   project: true
-  publication: false
-  event: false
+  publication: true
+  event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
