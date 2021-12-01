@@ -74,4 +74,4 @@ I am a lecturer and a life-long researcher in ELT. Soon after the college gradua
 
 My research interests include Educational Technology, Mobile Learning, Mobile Assisted Language Learning, Social Media and Language Learning, E-learning, Augmented Reality, and Gamification.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_res" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
