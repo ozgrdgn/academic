@@ -49,14 +49,14 @@ experience:
         * Hiring
         * Mentoring
         
-  - title: English teacher
+  - title: English Teacher
     company: Bolu Final Dergisi Dershanesi
     company_url: ''
     company_logo: ''
     location: Bolu
     date_start: '2005-07-01'
     date_end: '2007-06-30'
-    description: Taught english to high school students studying for the national university entrance exam.
+    description: Taught English to high school students studying for the national university entrance exam.
 
 design:
   columns: '2'
