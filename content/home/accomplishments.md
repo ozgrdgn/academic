@@ -55,14 +55,14 @@ item:
   organization_url: https://www.linkedin.com/learning
   title: Learning R
   url: https://www.linkedin.com/learning/learning-r-2
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/419665e6cdbe595762e948af0090afab6c099318
+  date_end: "2021-12-01"
+  date_start: "2021-11-30"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+  title: 'Data Visualization for Everyone'
+  url: https://app.datacamp.com/learn/courses/data-visualization-for-everyone
 - certificate_url: https://learn.canvas.net
   date_end: "2018-11-20"
   date_start: "2018-10-25"
