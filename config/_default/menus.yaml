@@ -21,10 +21,10 @@ main:
  #   weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 30
     - name: Uni-RIS
     url: https://avesis.ebyu.edu.tr/odogan
-    weight: 60
+    weight: 40
     
 
 # Link to a PDF of your resume/CV from the menu.
