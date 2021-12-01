@@ -22,7 +22,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 30
-    - name: Uni-RIS
+  - name: Uni-RIS
     url: https://avesis.ebyu.edu.tr/odogan
     weight: 40
     
