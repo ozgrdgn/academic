@@ -62,7 +62,7 @@ item:
   organization: DataCamp
   organization_url: https://www.datacamp.com
   title: 'Data Visualization for Everyone'
-  url: https://app.datacamp.com/learn/courses/data-visualization-for-everyone
+  url: https://www.datacamp.com/courses/data-visualization-for-everyone
 - certificate_url: https://www.datacamp.com/statement-of-accomplishment/course/75fef1278a65eb7fca67c314b2ba1aca8abd0aa9
   date_end: "2021-12-02"
   date_start: "2021-11-30"
